@@ -506,6 +506,6 @@ Expected performance on recommended hardware:
 
 ---
 
-**Setup guide maintained by Palraj T and Aswin Raj**
+**Setup guide maintained by Palraj T**
 
 Last updated: November 2025

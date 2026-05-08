@@ -237,7 +237,7 @@
       "ocr": "Multi-language text recognition",
       "blockchain": "Tamper-proof verification",
       "cloud": "Scalable infrastructure",
-      "nodejs": "Robust backend"
+      "fastapi": "Python + FastAPI backend"
     }
   },
   "contact": {

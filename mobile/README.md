@@ -513,7 +513,7 @@ const unsubscribe = NetInfo.addEventListener(state => {
 
 ## � Team
 
-**Mobile app maintained by Palraj T and Aswin Raj**
+**Mobile app maintained by Palraj T**
 
 ## �📚 Resources
 
@@ -524,4 +524,4 @@ const unsubscribe = NetInfo.addEventListener(state => {
 
 ---
 
-**Mobile app maintained by Palraj T and Aswin Raj**
+**Mobile app maintained by Palraj T**

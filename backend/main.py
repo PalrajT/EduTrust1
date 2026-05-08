@@ -65,8 +65,11 @@ async def lifespan(app: FastAPI):
     logger.info("🚀 Starting EduTrust API Server...")
     
     # Startup
-    await connect_to_mongo()
-    logger.info("✅ Database connected")
+    db_connected = await connect_to_mongo()
+    if db_connected:
+        logger.info("✅ Database connected")
+    else:
+        logger.warning("⚠️ Database unavailable; DB-backed endpoints will return 503")
     
     # Create necessary directories
     os.makedirs(settings.UPLOAD_DIR, exist_ok=True)

@@ -428,7 +428,7 @@ WantedBy=multi-user.target
 
 ## 👥 Team
 
-**Backend maintained by Palraj T and Aswin Raj**
+**Backend maintained by Palraj T**
 
 ## 🤝 Contributing
 

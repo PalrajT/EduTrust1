@@ -33,7 +33,7 @@ const About = () => {
     { name: 'OCR', description: t('about.techStack.ocr') },
     { name: 'Blockchain', description: t('about.techStack.blockchain') },
     { name: 'Cloud', description: t('about.techStack.cloud') },
-    { name: 'Node.js', description: t('about.techStack.nodejs') }
+    { name: 'FastAPI', description: t('about.techStack.fastapi') }
   ]
 
   return (
@@ -168,20 +168,6 @@ const About = () => {
               </div>
             </div>
 
-            {/* Team Member - Aswinraj */}
-            <div className="overflow-hidden transition-all duration-300 transform card hover:shadow-2xl hover:-translate-y-2 max-w-sm">
-              <div className="text-center">
-                <div className="relative mx-auto mb-4">
-                  <div className="flex items-center justify-center w-24 h-24 mx-auto transition-all duration-300 transform rounded-full bg-gradient-to-br from-green-400 to-green-600 group-hover:scale-110">
-                    <span className="text-3xl font-bold text-white">A</span>
-                  </div>
-                  <div className="absolute bottom-0 right-0 w-6 h-6 bg-green-500 border-4 border-white rounded-full"></div>
-                </div>
-                <h3 className="mb-1 text-xl font-bold text-gray-900">Aswin Raj</h3>
-                <p className="mb-3 font-medium text-green-600">AI/ML & Backend Engineer</p>
-                <p className="text-sm text-gray-600">Developing AI models, OCR systems, and intelligent verification algorithms for certificate authentication</p>
-              </div>
-            </div>
           </div>
 
           <div className="max-w-4xl p-8 mx-auto text-center text-white rounded-lg bg-gradient-to-r from-primary-600 to-primary-800">

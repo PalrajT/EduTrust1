@@ -288,7 +288,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 
 ## � Team
 
-**EduTrust is developed and maintained by Palraj T and Aswin Raj**
+**EduTrust is developed and maintained by Palraj T**
 
 ## �📄 License
 

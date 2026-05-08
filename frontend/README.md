@@ -398,7 +398,7 @@ Breakpoints:
 
 ## � Team
 
-**Frontend maintained by Palraj T and Aswin Raj**
+**Frontend maintained by Palraj T**
 
 ## �🚢 Deployment
 
@@ -484,4 +484,4 @@ npm install
 
 ---
 
-**Frontend maintained by Palraj T and Aswin Raj**
+**Frontend maintained by Palraj T**
