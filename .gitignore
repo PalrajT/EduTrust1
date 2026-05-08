@@ -3,6 +3,9 @@ User Credentials.txt
 .env
 .env.local
 .env.*.local
+setup.ps1
+start.ps1
+stop.ps1
 
 # Python
 __pycache__/
